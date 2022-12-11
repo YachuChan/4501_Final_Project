@@ -35,11 +35,11 @@ This purpose of this project is to explore hired-ride trip data from Uber and NY
 - Define a function to store daily sunrise and sunset time 
   *clean_month_sun_data_daily(csv_file)*
   
-##Part 2: Storing Cleaned Data
+## Part 2: Storing Cleaned Data
 
 We used SQL schema to built five tables in project.db. The tables are named hourly_weather, daily_weather, yellow_taxi, weather_sun, and uber. The function write_dataframes_to_table is used to load and add the data to the tables.
 
-##Part 3: Understanding the data 
+## Part 3: Understanding the data 
 
 In part 3, we used 7 SQL queries to develop 6 questions, which help us to understand the dataset.
   
