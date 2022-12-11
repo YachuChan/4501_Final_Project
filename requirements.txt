@@ -1,0 +1,14 @@
+## The Package used in the Project
+- bs4
+- matplotlib
+- pandas
+- requires.io
+- sqlalchemy
+- urllib
+- numpy
+- pathlib
+- glob
+- geopandas
+- folium
+- seaborn
+- DateTime
