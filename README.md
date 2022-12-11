@@ -15,7 +15,7 @@ This purpose of this project is to explore hired-ride trip data from Uber and NY
 - Generate a chart to refer location IDs to corresponding latitude and longitude
 - Define three functions to programmatically download the Yellow Taxi trip data <br />
   *find_taxi_csv_urls()* & *get_and_clean_month_taxi_data()* & *get_and_clean_taxi_data()*
-- Define a function to process each month's yellow taxi data: filter the trips in the NYC area, drop null values, standardize column names, and append to the dataframe that concatenates yellow taxi
+- Define a function to process each month's yellow taxi data: filter the trips in the NYC area, drop null values, rename column names, append to the dataframe, and standardize the column types to desired format
 designated
 - [Part 1](#Part 1)
 - [Part 2](#Part 2)
