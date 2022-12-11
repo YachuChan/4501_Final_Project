@@ -28,10 +28,11 @@ This is a long description.
 ## Security
 
 ### Any optional sections
-
 ## Background
 
-### Any optional sections
+This purpose of this project is to explore hired-ride trip data from Uber and NYC Yellow cab from January 2009 through June 2015, and joining with local historical weather data to find the some trends to back up why Uber and taxis have clashed for years. We first Preprocessed data by dropping null values, adjusting data types, calculating required numbers,and filtering the data needed. We then created and populated five tables: one for your sampled datasets of Yellow Taxi trips, one for Uber trips, one for hourly weather information, one for daily weather information, and one for daily sunrise and sunset information. Afterwards, we crafted a set of SQL queries to develop a better understanding of the datasets and created visualizationsto enhance reader's understanding of the datasets.
+
+
 
 ## Install
 
