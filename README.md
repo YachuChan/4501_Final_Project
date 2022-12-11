@@ -22,15 +22,15 @@ This purpose of this project is to explore hired-ride trip data from Uber and NY
 #### Processing Uber Data
 - Define a function to process Uber data: filter the trips in the NYC area, drop unnecessary and null values, rename column names, append to the dataframe, and standardize the column types to desired format <br />
   *load_and_clean_uber_data(csv_file)*
-- Define a function to add a column that calculate trips distance
+- Define a function to add a column that calculate trips distance <br />
   *def get_uber_data()*
   
 #### Processing Weather Data
-- Define a function to merge all weather files together and standardize the column types to desired format
+- Define a function to merge all weather files together and standardize the column types to desired format <br />
   *merge_weather_file()*
-- Define two functions to extract houlry weather data and split the pickup date to Year, Month, Day
+- Define two functions to extract houlry weather data and split the pickup date to Year, Month, Day <br />
   *clean_month_weather_data_hourly(csv_file)*
-- Define a function to extract daily weather data and split the pickup date to Year, Month, Day
+- Define a function to extract daily weather data and split the pickup date to Year, Month, Day <br />
   *clean_month_weather_data_daily(csv_file)*
 
 
