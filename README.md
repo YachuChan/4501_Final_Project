@@ -9,10 +9,10 @@ This purpose of this project is to explore hired-ride trip data from Uber and NY
 
 ## Table of Contents
 
-- [Security](#security)
-- [Background](#background)
-- [Install](#install)
-- [Usage](#usage)
+- [Part 1](#Part 1)
+- [Part 2](#Part 2)
+- [Part 3](#Part 3)
+- [Part 4](#Part 4)
 - [API](#api)
 - [Contributing](#contributing)
 - [License](#license)
