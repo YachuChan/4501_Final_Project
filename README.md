@@ -32,51 +32,8 @@ This purpose of this project is to explore hired-ride trip data from Uber and NY
   *clean_month_weather_data_hourly(csv_file)*
 - Define a function to extract daily weather data and split the pickup date to Year, Month, Day <br />
   *clean_month_weather_data_daily(csv_file)*
-
-
-## Security
-
-### Any optional sections
-## Background
-
-
-
-
-
-## Install
-
-This module depends upon a knowledge of [Markdown]().
-
-```
-```
-
-### Any optional sections
-
-## Usage
-
-```
-```
-
-Note: The `license` badge image link at the top of this file should be updated with the correct `:user` and `:repo`.
-
-### Any optional sections
-
-## API
-
-### Any optional sections
-
-## More optional sections
-
-## Contributing
-
-See [the contributing file](CONTRIBUTING.md)!
-
-PRs accepted.
-
-Small note: If editing the Readme, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
-
-### Any optional sections
-
-## License
-
-[MIT © Richard McRichface.](../LICENSE)
+- Define a function to store daily sunrise and sunset time 
+  *clean_month_sun_data_daily(csv_file)*
+  
+## Part 4
+- Define functions to create appropriate visualization 
